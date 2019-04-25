@@ -1,4 +1,4 @@
-# Ce p%$#in de projet à été fait par :
+# Ce p%$#in de projet a été fait par :
 - Lloyd WESTBURY (@Lloyd sur Slack)
 
 Dans le fichier seed tu trouveras le code utilisé pour remplir les tables.
